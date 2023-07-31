@@ -9,12 +9,12 @@ Skills: Python / JS / HTML / CSS / SQL
 - 🔭 I’m currently working on this page. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Th3Blaze)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Th3Blaze)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/patriciocardenasz//)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Th3Blaze)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Th3Blaze&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Th3Blaze)  
+![GitHub metrics](https://metrics.lecoq.io/Th3Blaze)  
 
-![Profile views](https://gpvc.arturio.dev/Th3Blaze)  
+
