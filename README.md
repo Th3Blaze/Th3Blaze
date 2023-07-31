@@ -18,3 +18,15 @@ Skills: Python / JS / HTML / CSS / SQL
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Th3Blaze)  
 
 ![Profile views](https://gpvc.arturio.dev/Th3Blaze)  
+
+
+
+
+
+ 
+
+![GitHub metrics](https://metrics.lecoq.io/th3blaze)  
+
+ 
+
+![Profile views](https://gpvc.arturio.dev/th3blaze)  
