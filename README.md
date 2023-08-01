@@ -15,5 +15,4 @@ Skills: Python / JS / HTML / CSS / SQL
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Th3Blaze&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/Th3Blaze)  
 
