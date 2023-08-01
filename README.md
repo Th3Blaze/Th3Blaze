@@ -3,9 +3,7 @@
 
 I'm passionate about programming and technology. I enjoy working on challenging projects and finding creative solutions to complex problems. My focus is on user-centric development, striving to create intuitive and efficient web applications.
 
-Skills: Python / JS / HTML / CSS / SQL
-
-- 🔭 I’m currently working on <br>
+## 🛠  Technologies and tools
   <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
   <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
   <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
