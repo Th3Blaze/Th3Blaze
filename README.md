@@ -5,7 +5,7 @@ I'm passionate about programming and technology. I enjoy working on challenging 
 
 Skills: Python / JS / HTML / CSS / SQL
 
-- 🔭 I’m currently working on
+- 🔭 I’m currently working on <br>
   <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
   <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
   <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
