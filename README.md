@@ -10,7 +10,7 @@ I'm passionate about programming and technology. I enjoy working on challenging 
   <br>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=py,postgres,js,html,django,css" />
   </a>
 </p>
   
